@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/MovieSearcher/static/css/main.bbc8b315.css",
+    "main.js": "/MovieSearcher/static/js/main.b8e0ee78.js",
+    "static/css/2.fa117d6a.chunk.css": "/MovieSearcher/static/css/2.fa117d6a.chunk.css",
+    "static/js/2.a6d12828.chunk.js": "/MovieSearcher/static/js/2.a6d12828.chunk.js",
+    "static/css/368.a0082969.chunk.css": "/MovieSearcher/static/css/368.a0082969.chunk.css",
+    "static/js/368.93959b9e.chunk.js": "/MovieSearcher/static/js/368.93959b9e.chunk.js",
+    "static/css/262.bdea0d16.chunk.css": "/MovieSearcher/static/css/262.bdea0d16.chunk.css",
+    "static/js/262.360fe2b0.chunk.js": "/MovieSearcher/static/js/262.360fe2b0.chunk.js",
+    "static/css/454.86fdcdaa.chunk.css": "/MovieSearcher/static/css/454.86fdcdaa.chunk.css",
+    "static/js/454.fc3a41f1.chunk.js": "/MovieSearcher/static/js/454.fc3a41f1.chunk.js",
+    "static/css/537.f3b4dac3.chunk.css": "/MovieSearcher/static/css/537.f3b4dac3.chunk.css",
+    "static/js/537.6eaa4788.chunk.js": "/MovieSearcher/static/js/537.6eaa4788.chunk.js",
+    "static/js/279.3ea39da1.chunk.js": "/MovieSearcher/static/js/279.3ea39da1.chunk.js",
+    "index.html": "/MovieSearcher/index.html",
+    "static/media/star.svg": "/MovieSearcher/static/media/star.daa0330fa0faf9acb38d467583505d44.svg",
+    "main.bbc8b315.css.map": "/MovieSearcher/static/css/main.bbc8b315.css.map",
+    "main.b8e0ee78.js.map": "/MovieSearcher/static/js/main.b8e0ee78.js.map",
+    "2.fa117d6a.chunk.css.map": "/MovieSearcher/static/css/2.fa117d6a.chunk.css.map",
+    "2.a6d12828.chunk.js.map": "/MovieSearcher/static/js/2.a6d12828.chunk.js.map",
+    "368.a0082969.chunk.css.map": "/MovieSearcher/static/css/368.a0082969.chunk.css.map",
+    "368.93959b9e.chunk.js.map": "/MovieSearcher/static/js/368.93959b9e.chunk.js.map",
+    "262.bdea0d16.chunk.css.map": "/MovieSearcher/static/css/262.bdea0d16.chunk.css.map",
+    "262.360fe2b0.chunk.js.map": "/MovieSearcher/static/js/262.360fe2b0.chunk.js.map",
+    "454.86fdcdaa.chunk.css.map": "/MovieSearcher/static/css/454.86fdcdaa.chunk.css.map",
+    "454.fc3a41f1.chunk.js.map": "/MovieSearcher/static/js/454.fc3a41f1.chunk.js.map",
+    "537.f3b4dac3.chunk.css.map": "/MovieSearcher/static/css/537.f3b4dac3.chunk.css.map",
+    "537.6eaa4788.chunk.js.map": "/MovieSearcher/static/js/537.6eaa4788.chunk.js.map",
+    "279.3ea39da1.chunk.js.map": "/MovieSearcher/static/js/279.3ea39da1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbc8b315.css",
+    "static/js/main.b8e0ee78.js"
+  ]
+}
