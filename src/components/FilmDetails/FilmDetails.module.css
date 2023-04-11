@@ -1,0 +1,63 @@
+main{
+    width: 80%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    gap:1em;
+}
+h3, h4, p {
+    margin: 0;
+    padding: 0;
+}
+h3 {
+    text-align: center;
+}
+.container{
+    display: flex;
+    gap:1em;
+}
+.backBtn{
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+.imageFilm{
+    box-shadow: 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+.description{
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap:1em;
+    justify-content: center;
+    padding: 1em;
+    box-shadow: 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+.addInfo{
+    display: flex;
+    gap:1em;
+    width: 50%;
+    padding: 0;
+    
+    
+}
+.addInfoItem{
+    
+    text-decoration: none;
+    color:black;
+    flex-basis: calc((100% - 1 * 1em) / 2);
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5em;
+
+}
+.addInfoItem:hover{
+    transform: scale(1.2);
+
+}

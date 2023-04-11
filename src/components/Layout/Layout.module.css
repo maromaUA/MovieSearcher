@@ -1,0 +1,9 @@
+.menu{
+    font-size: 1.5rem;
+    display: flex;
+    gap:1em;
+    justify-content: center;
+}    
+.menuItem{
+    text-decoration: none;
+}

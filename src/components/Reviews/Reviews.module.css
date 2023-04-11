@@ -1,0 +1,9 @@
+.listReviews{
+    display: flex;
+    flex-direction: column;
+    gap:1em;
+    width: 70%;
+}
+.errorMessage{
+   margin-bottom: 2em;
+}

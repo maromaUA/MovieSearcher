@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    font-size: 1.2rem;
+    flex-direction: column;
+    gap:1em;
+    padding: 1em 2em;
+    box-shadow: 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+.date{
+    text-align: right;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.content{
+    line-height: 170%;
+    text-align: justify;
+}

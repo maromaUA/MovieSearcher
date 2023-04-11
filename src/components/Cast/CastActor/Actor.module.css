@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    gap:1.5em;
+    font-size: 1.5rem;
+    box-shadow: 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+.container:hover{
+    
+}
+.image{
+    
+}
+.description{
+    display: flex;
+    flex-direction: column;
+    gap:1em;
+    justify-content: center;
+    padding: 1em;
+}
+
+.bold{
+    font-weight: bold;
+}
